@@ -4,13 +4,13 @@
     "name": "The Eco Palace",
     "location": "22.57487701417459, 88.48598396052455",
     "address": "Newtown, India",
-    "images": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub/main/images/Image1.jpeg"],
+    "images": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub-frontend/main/images/Image1.jpeg"],
     "videos": [],
      "youtubeVideos": [
       "https://www.youtube.com/embed/rgV5trDd0Q4"
     ],
     "externalLinks": [],
-    "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub/main/pdfFiles/eco%20palace.pdf"]
+    "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub-frontend/main/pdfFiles/eco%20palace.pdf"]
   },
    {
     "id": 2,
