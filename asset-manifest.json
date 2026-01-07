@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/property-hub-frontend/static/css/main.9d0fee49.css",
+    "main.js": "/property-hub-frontend/static/js/main.d8cfd7fa.js",
+    "static/js/453.bee2ab36.chunk.js": "/property-hub-frontend/static/js/453.bee2ab36.chunk.js",
+    "index.html": "/property-hub-frontend/index.html",
+    "main.9d0fee49.css.map": "/property-hub-frontend/static/css/main.9d0fee49.css.map",
+    "main.d8cfd7fa.js.map": "/property-hub-frontend/static/js/main.d8cfd7fa.js.map",
+    "453.bee2ab36.chunk.js.map": "/property-hub-frontend/static/js/453.bee2ab36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0fee49.css",
+    "static/js/main.d8cfd7fa.js"
+  ]
+}
