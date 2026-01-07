@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "The Eco Palace",
+    "location": "22.57487701417459, 88.48598396052455",
+    "address": "Newtown, India",
+    "images": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub-frontend/main/images/Image1.jpeg"],
+    "videos": [],
+     "youtubeVideos": [
+      "https://www.youtube.com/embed/rgV5trDd0Q4"
+    ],
+    "externalLinks": [],
+    "pdfs": ["https://raw.githubusercontent.com/samanwitaghosh/property-hub-frontend/main/pdfFiles/eco%20palace.pdf"]
+  },
+   {
+    "id": 2,
+    "name": "Merlin LakeScape",
+    "location": "22.564755414716018, 88.51093793744128",
+    "address": "Action Area 3, Newtown, India",
+    "images": [],
+    "videos": [],
+     "youtubeVideos": [
+      "https://www.merlinprojects.com/projects/lakescape/"
+    ],
+     "externalLinks": [
+  "https://www.merlinprojects.com/projects/lakescape/"
+],
+    "pdfs": []
+  }
+]
